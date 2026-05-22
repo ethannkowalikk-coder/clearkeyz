@@ -5,9 +5,9 @@ A custom tenkeyless (80%) mechanical keyboard built from scratch.
 ## Features
 
 - Layered acrylic case with RGB underlighting
-- Hand-soldered mechanical switches (Gateron Yellows)
+- Hand soldered mechanical switches (Gateron Yellows)
 - Custom PCB
-- Per-key RGB lighting
+- Per key RGB lighting
 - QMK firmware for full customization
 
 ## Parts List
