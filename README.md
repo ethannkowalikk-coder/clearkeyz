@@ -19,7 +19,8 @@ A custom tenkeyless (80%) mechanical keyboard built from scratch.
 | Acrylic case kit | ~$40 |
 | Keycaps | ~$30 |
 | Misc (LEDs, diodes, USB-C, solder) | ~$15 |
-| **Total** | **~$160** |
+| Soldering iron kit | ~$20 |
+| **Total** | **~$180** |
 
 ## Progress
 
